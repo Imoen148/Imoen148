@@ -7,4 +7,6 @@ Attentes envers le cours : Apprendre à programmer
 
 Attentes envers le cours : Être suffisamment outillé pour débuter une nouvelle carrière
 
-Information supplémentaire : J'ai les cheveux chatain
+Intérêt particulier : Cinéma
+
+Information supplémentaire 1: J'ai les cheveux chatains
