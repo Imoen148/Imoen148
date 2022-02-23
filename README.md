@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Nom : Stéphanie Ste-Marie
+
+Expérience en programmation : Aucune
